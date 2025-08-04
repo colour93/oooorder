@@ -17,6 +17,28 @@
 6. 最后就是发货
 7. 在这一过程中订单状态会有所更新，更新时会发送邮件给用户，同时用户可以通过查看订单状态页面
 
+# 框架使用
+
+## 前端
+
+- typescript
+- vite
+- react
+- tanstack router
+- tanstack query
+- tailwindcss
+- mui
+- react-hook-form
+- zustand
+- zod
+
+## 后端
+
+- typescript
+- prisma
+- nest
+- zod
+
 # ER
 
 ```mermaid
